@@ -179,9 +179,9 @@ nav .fa {
 }
 
 .verticalLine {
-  width: 2px;
-  height: 100px;
-  background: #24f8c7;
+  width: 100px;
+  height: 5px;
+  background: #24b1f8;
   margin: 0 auto 40px;
 }
 
